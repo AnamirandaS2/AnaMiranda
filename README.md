@@ -1,4 +1,5 @@
-  <img align="right" src="https://github.com/user-attachments/assets/b5768dcd-3524-4239-8d36-ab8459508dca" alt="Octocat" style="width: 30%; height: auto;">
+<img align="right" src="https://github.com/user-attachments/assets/b5768dcd-3524-4239-8d36-ab8459508dca" alt="Octocat" style="width: 30%; height: auto;">
+
 # 💫 About Me:
 <div style="display: flex; align-items: center; gap: 10px;">
   <div>
